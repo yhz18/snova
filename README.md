@@ -1,3 +1,4 @@
+这个项目首页改成电视直播了，目的是不让别人知道而使用。
 本项目是[Snova](http://code.google.com/p/snova/)的C4服务端的NodeJS实现， 可以部署到一些NodeJS PAaS平台，或者VPS上。
 
 部署服务端
